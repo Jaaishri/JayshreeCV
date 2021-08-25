@@ -470,7 +470,13 @@ img {
 }
 
 .languages__content {
-  gap: 0;
+  position:absolute;
+  margin-left: 10em;
+  
+  
+  
+  
+  
 }
 
 .skills__name,
