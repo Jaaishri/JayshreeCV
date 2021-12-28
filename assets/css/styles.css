@@ -110,7 +110,7 @@ body.scale-cv {
 }
 
 .scale-cv .section-title {
-  margin-bottom: .7rem;
+  margin-bottom: .71rem;
 }
 
 .scale-cv .resume__left,
@@ -638,3 +638,4 @@ img {
     column-gap: 3.5rem;
   }
 }
+
